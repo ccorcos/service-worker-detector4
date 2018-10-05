@@ -1,6 +1,6 @@
 {
-  "name": "service-worker-detector",
-  "homepage": "http://ccorcos.github.io/service-worker-detector",
+  "name": "service-worker-detector3",
+  "homepage": "http://ccorcos.github.io/service-worker-detector3",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
