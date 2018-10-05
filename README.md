@@ -1,1 +1,1 @@
-[http://ccorcos.github.io/service-worker-detector4](http://ccorcos.github.io/service-worker-detector4)
+[https://ccorcos.github.io/service-worker-detector4/](https://ccorcos.github.io/service-worker-detector4/)
